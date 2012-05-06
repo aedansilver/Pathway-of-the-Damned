@@ -1,8 +1,8 @@
 = Pathway Of The Damned
 
-= Changelog V1, Release
+= Changelog V1.1, Release (updated)
 
-:: Last updated/tested with ArcEmu mysql update: 2012-01-31_02-35_killing_spree
+:: Last updated/tested with ArcEmu mysql update: 2012-02-09_00-55_earth_shield
 
 
 A rough detail of the work that has gone into this database.
@@ -33,6 +33,8 @@ The patches are no longer applied, and a custom ArcEmu is no longer provided.
 The next work when I have time to go into this database is parsing old wowhead archives for gossips, as parsers previously didn't supply the linkup data and many gossips are sitting in that table without being applied to NPCs.
 
 New updates will be listed here, when they happen
+
+:: V1.1 (Update to latest structures)
 
 
 = To get the latest version of Pathway of the Damned 
