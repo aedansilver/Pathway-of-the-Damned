@@ -65,7 +65,7 @@ New updates will be listed here, when they happen
 
 Original Project Post: http://arcemu.org/forums/index.php?showtopic=22205
 
-Irc: irc.freenode.net #arcemu (or talk to Marforius)
+Irc: irc.rizon.net #Marforius
 
 
 = Misc
